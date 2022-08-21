@@ -1,2 +1,4 @@
-# BedrockLand.su
-Старый сайт для сервера BedrockLand на Flask, Discord Api
+# BedrockLand
+Python site  
+Used: Flask; Discord API;  
+![img](https://github.com/Parliskaya/BedrockLand/blob/main/img.png)
